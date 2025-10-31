@@ -1,8 +1,0 @@
-# Entorno virtual y cachés
-.venv/
-__pycache__/
-*.pyc
-
-# Logs y reportes
-logs/
-reports/
