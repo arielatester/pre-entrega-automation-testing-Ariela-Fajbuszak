@@ -1,0 +1,138 @@
+2025-10-11 19:50:23,370 [INFO] ====== WebDriver manager ======
+2025-10-11 19:50:23,723 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 19:50:23,855 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 19:50:23,949 [INFO] There is no [mac64] chromedriver "141.0.7390.76" for browser google-chrome "141.0.7390" in cache
+2025-10-11 19:50:23,949 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 19:50:24,190 [INFO] WebDriver version 141.0.7390.76 selected
+2025-10-11 19:50:24,196 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.76/mac-x64/chromedriver-mac-x64.zip
+2025-10-11 19:50:24,196 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.76/mac-x64/chromedriver-mac-x64.zip
+2025-10-11 19:50:24,331 [INFO] Driver downloading response is 200
+2025-10-11 19:50:25,772 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 19:50:25,932 [INFO] Driver has been saved in cache [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76]
+2025-10-11 19:50:29,326 [INFO] ====== WebDriver manager ======
+2025-10-11 19:50:29,614 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 19:50:29,701 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 19:50:29,809 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 19:50:32,260 [INFO] ====== WebDriver manager ======
+2025-10-11 19:50:32,573 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 19:50:32,692 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 19:50:32,789 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:00:21,437 [INFO] ====== WebDriver manager ======
+2025-10-11 20:00:21,864 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:00:21,991 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:00:22,092 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:00:25,323 [INFO] ====== WebDriver manager ======
+2025-10-11 20:00:25,672 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:00:25,756 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:00:25,842 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:00:28,220 [INFO] ====== WebDriver manager ======
+2025-10-11 20:00:28,591 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:00:28,685 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:00:28,767 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:02:23,676 [INFO] ====== WebDriver manager ======
+2025-10-11 20:02:23,995 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:02:24,095 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:02:24,276 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:02:26,737 [INFO] ====== WebDriver manager ======
+2025-10-11 20:02:27,041 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:02:27,136 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:02:27,207 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:02:29,570 [INFO] ====== WebDriver manager ======
+2025-10-11 20:02:29,893 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:02:29,972 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:02:30,057 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:07:13,823 [INFO] ====== WebDriver manager ======
+2025-10-11 20:07:14,095 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:07:14,202 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:07:14,319 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:07:16,623 [INFO] ====== WebDriver manager ======
+2025-10-11 20:07:16,874 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:07:16,970 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:07:17,073 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:07:19,326 [INFO] ====== WebDriver manager ======
+2025-10-11 20:07:19,586 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:07:19,682 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:07:19,888 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:09:56,492 [INFO] ====== WebDriver manager ======
+2025-10-11 20:09:56,756 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:09:56,867 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:09:56,946 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:09:59,318 [INFO] ====== WebDriver manager ======
+2025-10-11 20:09:59,572 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:09:59,649 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:09:59,731 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:10:02,004 [INFO] ====== WebDriver manager ======
+2025-10-11 20:10:02,265 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:10:02,368 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:10:02,442 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+<<<<<<< HEAD
+2025-10-16 16:30:17,778 [INFO] ====== WebDriver manager ======
+2025-10-16 16:30:18,024 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-16 16:30:18,191 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-16 16:30:18,302 [INFO] There is no [mac64] chromedriver "141.0.7390.78" for browser google-chrome "141.0.7390" in cache
+2025-10-16 16:30:18,303 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-16 16:30:18,589 [INFO] WebDriver version 141.0.7390.78 selected
+2025-10-16 16:30:18,596 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/mac-x64/chromedriver-mac-x64.zip
+2025-10-16 16:30:18,596 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/mac-x64/chromedriver-mac-x64.zip
+2025-10-16 16:30:18,910 [INFO] Driver downloading response is 200
+2025-10-16 16:30:19,263 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-16 16:30:19,460 [INFO] Driver has been saved in cache [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.78]
+2025-10-16 16:30:29,052 [INFO] ====== WebDriver manager ======
+2025-10-16 16:30:29,319 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-16 16:30:29,437 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-16 16:30:29,552 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.78/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-16 16:30:37,922 [INFO] ====== WebDriver manager ======
+2025-10-16 16:30:38,182 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-16 16:30:38,318 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-16 16:30:38,433 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.78/chromedriver-mac-x64/chromedriver] found in cache
+=======
+2025-10-11 20:15:29,571 [INFO] ====== WebDriver manager ======
+2025-10-11 20:15:29,954 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:15:30,076 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:15:30,196 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:15:32,810 [INFO] ====== WebDriver manager ======
+2025-10-11 20:15:33,078 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:15:33,163 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:15:33,234 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-11 20:15:35,623 [INFO] ====== WebDriver manager ======
+2025-10-11 20:15:35,909 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:15:35,995 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-11 20:15:36,123 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-12 12:01:41,545 [INFO] ====== WebDriver manager ======
+2025-10-12 12:01:47,864 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-12 12:01:47,996 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-12 12:01:48,078 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-12 12:01:48,302 [INFO] WebDriver version 141.0.7390.76 selected
+2025-10-12 12:01:48,308 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.76/mac-x64/chromedriver-mac-x64.zip
+2025-10-12 12:01:48,308 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.76/mac-x64/chromedriver-mac-x64.zip
+2025-10-12 12:01:48,594 [INFO] Driver downloading response is 200
+2025-10-12 12:01:49,619 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-12 12:01:49,806 [INFO] Driver has been saved in cache [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76]
+2025-10-12 12:01:52,673 [INFO] ====== WebDriver manager ======
+2025-10-12 12:01:52,979 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-12 12:01:53,071 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-12 12:01:53,155 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+2025-10-12 12:01:55,375 [INFO] ====== WebDriver manager ======
+2025-10-12 12:01:55,693 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-12 12:01:55,790 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-12 12:01:55,872 [INFO] Driver [/Users/ichaffin/.wdm/drivers/chromedriver/mac64/141.0.7390.76/chromedriver-mac-x64/chromedriver] found in cache
+>>>>>>> 6465187be711c3d4f75d1814a20fc0d3994802df
+2025-10-30 22:05:45,696 [INFO] ====== WebDriver manager ======
+2025-10-30 22:05:51,753 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-30 22:05:54,710 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-30 22:05:56,167 [INFO] There is no [win64] chromedriver "141.0.7390.122" for browser google-chrome "141.0.7390" in cache
+2025-10-30 22:05:56,168 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-30 22:05:58,558 [INFO] WebDriver version 141.0.7390.122 selected
+2025-10-30 22:05:58,568 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/win32/chromedriver-win32.zip
+2025-10-30 22:05:58,568 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/win32/chromedriver-win32.zip
+2025-10-30 22:06:01,814 [INFO] Driver downloading response is 200
+2025-10-30 22:06:05,004 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-30 22:06:06,788 [INFO] Driver has been saved in cache [C:\Users\ariel\.wdm\drivers\chromedriver\win64\141.0.7390.122]
+2025-10-30 22:06:34,791 [INFO] ====== WebDriver manager ======
+2025-10-30 22:06:38,874 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-30 22:06:39,843 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-30 22:06:41,028 [INFO] Driver [C:\Users\ariel\.wdm\drivers\chromedriver\win64\141.0.7390.122\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-30 22:07:00,042 [INFO] ====== WebDriver manager ======
+2025-10-30 22:07:03,974 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-30 22:07:05,083 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-30 22:07:06,053 [INFO] Driver [C:\Users\ariel\.wdm\drivers\chromedriver\win64\141.0.7390.122\chromedriver-win32/chromedriver.exe] found in cache

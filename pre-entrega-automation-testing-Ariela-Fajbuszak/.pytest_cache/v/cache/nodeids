@@ -1,0 +1,7 @@
+[
+  "tests/test_saucedemo.py::test_agregar_carrito_y_verificar",
+  "tests/test_saucedemo.py::test_cart_add_and_verify",
+  "tests/test_saucedemo.py::test_inventario_validacion",
+  "tests/test_saucedemo.py::test_inventory_validation",
+  "tests/test_saucedemo.py::test_login_ok"
+]
